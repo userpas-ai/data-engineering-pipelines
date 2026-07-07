@@ -1,2 +1,2 @@
-print('hola mubdo')
-print('hola  mundo')
+import sys
+print(sys.executable)
