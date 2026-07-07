@@ -1,0 +1,6 @@
+# Archivos de configuración local
+.env
+
+# Archivos temporales de Python y Jupyter Notebooks
+__pycache__/
+*.pyc
